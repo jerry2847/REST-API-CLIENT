@@ -17,3 +17,6 @@ The main objective of this task is to understand how Java applications communica
 In this task, a public REST API is accessed using an HTTP GET request.The API returns data in JSON format, which is then read and processed using Java classes such as URL, HttpURLConnection, BufferedReader, and InputStreamReader. The JSON response is parsed to extract useful information like name, age, and count, which is displayed clearly on the console.
 This task helps in learning the basics of RESTful services, handling HTTP connections, processing JSON responses, and integrating third-party APIs into Java applications.
 It demonstrates how real-time data can be fetched and used in Java programs.
+
+OUTPUT :
+<img width="1778" height="955" alt="Image" src="https://github.com/user-attachments/assets/571a6148-6ce7-49c8-9580-5379abdb915d" />
